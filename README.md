@@ -11,13 +11,10 @@ Walls and Gates
 每個空房間的值為到門的「最近距離」。 若此房間無法到達門,值為 INF
 
 例如, 給定一個2D 表格
-INF  -1  0  INF
-INF INF INF  -1
-INF  -1 INF  -1
-  0  -1 INF INF
+![before](https://user-images.githubusercontent.com/33632760/137959838-7aa55bfe-a841-40a7-bf32-f8e435964b8e.jpg)
+
   
 執行完程式後應為
-  3  -1   0   1
-  2   2   1  -1
-  1  -1   2  -1
-  0  -1   3   4
+![after](https://user-images.githubusercontent.com/33632760/137959834-deca9f7f-bf25-49a8-8b14-385adf2fc2bb.jpg)
+
+  
