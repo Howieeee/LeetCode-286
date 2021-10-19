@@ -1,7 +1,7 @@
 # LeetCode-286
 Walls and Gates
 
-#此題使用 BFS (Breadth-First Search) 
+# 此題使用 BFS (Breadth-First Search) 
 
 給定一個 (m x n) 的 2D 表格 , 此表格內只有以下三種值(分別代表不同意思)
 1. -1 (牆壁或者障礙)
