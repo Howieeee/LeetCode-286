@@ -1,4 +1,4 @@
-# LeetCode-286
+# LeetCode-286 (Medium)
 ## Walls and Gates
 
 - 此題使用 BFS (Breadth-First Search) 
